@@ -20,4 +20,6 @@
 
 9. DIF.def ： 钻孔诱发张裂隙符号   作者：汪园园
 
+[绘图脚本](plot_diy_custom_symbols.sh)
+
 ![GMT自定义符号](plot_diy_custom_symbols.png)
