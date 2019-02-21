@@ -1,3 +1,14 @@
+# Author: Wangyuanyuan
+# Create: 2018-11
+# Update:
+# Description: Definition file for borehole slot symbol. You must give three 
+#                    parameters(lontitude,latitude and rotate degree) in inputfile.
+# Usage: 
+#       This symbol can be used in module 'psxy' with option '-Sk' as :
+#                      '-SkBS/1c'
+#       or in 'pslegend' as : 
+#                      'S 0.2c kBS 0.15i black 0.5p 1c BS' 
+
 N: 1 a
 $1 R
 -90 R
