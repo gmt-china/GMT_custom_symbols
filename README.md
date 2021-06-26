@@ -1,6 +1,6 @@
-# GMT自定义符号
+# GMT 自定义符号
 
-本项目收集了中文社区自制的GMT自定义符号。
+本项目收集了中文社区自制的 GMT 自定义符号。
 
 **本项目持续更新，欢迎投稿！**
 
@@ -16,7 +16,9 @@
 | 8   | [BS.def](BS.def) | 钻孔槽符号   | 汪园园  |
 | 9   | [DIF.def](DIF.def) | 钻孔诱发张裂隙符号   | 汪园园  |
 
-GMT自定义符号的使用方式见 [绘图脚本](plot_diy_custom_symbols.sh)。
+可以参考[绘制 GMT 社区自定义符号](https://docs.gmt-china.org/latest/module/plot/#gmt-custom-symbols) 了解具体使用方式。
+
+GMT 自定义符号的使用方式见 [绘图脚本](plot_diy_custom_symbols.sh)。
 
 效果图：
 
