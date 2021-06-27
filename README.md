@@ -16,5 +16,4 @@
 |    8 | [BS.def](BS.def)                               | 钻孔槽符号         | 汪园园 |
 |    9 | [DIF.def](DIF.def)                             | 钻孔诱发张裂隙符号 | 汪园园 |
 
-可以参考[绘制 GMT 社区自定义符号](https://docs.gmt-china.org/latest/module/plot/#gmt-custom-symbols)
-了解具体使用方式和效果。
+可以参考[绘制 GMT 社区自定义符号](https://docs.gmt-china.org/latest/module/plot/#gmt-custom-symbols)了解具体使用方式和效果。
